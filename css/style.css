@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+* { 
+	color:#FFFFFF;
+	background-color:#000000
+}
+body { font-family: "monospace", "Andale Mono", "Courier New" }
+#tb1{
+	border-collapse:collapse;
+	border:1px solid white;
+}
+#tb2{
+	border-collapse:collapse;
+	border:1px solid white;
+}
+#tb3{
+	border-collapse:collapse;
+	border:1px solid white;
+}
